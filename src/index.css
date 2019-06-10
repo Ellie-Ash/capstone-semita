@@ -1,13 +1,27 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    background-image: url("https://66.media.tumblr.com/a323880b307c47dc215869b06b378bcb/tumblr_osm0trXTvp1uzwgsuo1_400.gif");
+    background-size: cover;
+    min-height: 100vh;
+    font-family: 'Anonymous Pro', monospace;
+    color: black;
+    
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+h1 {
+    font-family: 'Modak', cursive;
+    font-size: 7em;
+    margin: 16px;
+    color: black;
 }
+
+p li ul {
+    font-size: 5em;
+    color: black;
+}
+
+
+
+label {
+    color: black;
+}
+

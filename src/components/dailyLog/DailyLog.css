@@ -1,0 +1,18 @@
+.MainText {
+    width: 45%;
+    float: right;
+    margin: 1em;
+    padding: 1em;
+    border: white solid 1px;
+    color: white;
+}
+
+.MainLogCard {
+    margin: 1em;
+    width: 45%;
+    border: white solid 1px;
+}
+
+.MainCardContent {
+    padding: 1em;
+}

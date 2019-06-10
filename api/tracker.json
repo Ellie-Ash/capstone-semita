@@ -1,0 +1,29 @@
+{
+  "activities": [
+    {
+      "activityTitle": "",
+      "rate": "3",
+      "id": 1
+    },
+    {
+      "activityTitle": "",
+      "rate": "3",
+      "id": 2
+    }
+  ],
+  "user": [
+    {
+      "username": "Ellie",
+      "password": "test",
+      "id": 1
+    }
+  ],
+  "rating": [
+    {
+      "id": 200,
+      "activityId": 1,
+      "date": "07-15-19",
+      "rate": 3
+    }
+  ]
+}
